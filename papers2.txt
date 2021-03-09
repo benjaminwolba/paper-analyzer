@@ -1,0 +1,1285 @@
+id	year	abstract
+http://arxiv.org/abs/cond-mat/0108238v4	2001-08-26T15:01:52Z	"We argue that aspects of the anomalous, low temperature, spin and charge
+dynamics of the high temperature superconductors can be understood by studying
+the corresponding physics of undoped Mott insulators. Such insulators display a
+quantum transition from a magnetically ordered Neel state to a confining
+paramagnet with a spin gap; the latter state has bond-centered charge order, a
+low energy S=1 spin exciton, confinement of S=1/2 spinons, and a free S=1/2
+moment near non-magnetic impurities. We discuss how these characteristics, and
+the quantum phase transitions, evolve upon doping the insulator into a d-wave
+superconductor. This theoretical framework was used to make a number of
+predictions for STM measurements and for the phase diagram of the doped Mott
+insulator in an applied magnetic field."
+http://arxiv.org/abs/cond-mat/0401041v1	2004-01-06T14:51:54Z	"This article contains a theoretical overview of the physical properties of
+antiferromagnetic Mott insulators in spatial dimensions greater than one. Many
+such materials have been experimentally studied in the past decade and a half,
+and we make contact with these studies. The simplest class of Mott insulators
+have an even number of S=1/2 spins per unit cell, and these can be described
+with quantitative accuracy by the bond operator method: we discuss their spin
+gap and magnetically ordered states, and the transitions between them driven by
+pressure or an applied magnetic field. The case of an odd number of S=1/2 spins
+per unit cell is more subtle: here the spin gap state can spontaneously develop
+bond order (so the ground state again has an even number of S=1/2 spins per
+unit cell), and/or acquire topological order and fractionalized excitations. We
+describe the conditions under which such spin gap states can form, and survey
+recent theories (T. Senthil et al., cond-mat/0312617) of the quantum phase
+transitions among these states and magnetically ordered states. We describe the
+breakdown of the Landau-Ginzburg-Wilson paradigm at these quantum critical
+points, accompanied by the appearance of emergent gauge excitations."
+http://arxiv.org/abs/1006.0675v1	2010-06-03T15:24:44Z	"A new renormalization group approach that maps lattice problems to tensor
+networks may hold the key to solving seemingly intractable models of strongly
+correlated systems in any dimension. A Physics Viewpoint on arXiv:0903.1069"
+http://arxiv.org/abs/cond-mat/0304137v2	2003-04-09T12:42:43Z	"This is a summary of a central argument in recent review articles by the
+author (cond-mat/0109419, cond-mat/0211005, and cond-mat/0211027). An effective
+field theory is derived for the low energy spin singlet excitations in a
+paramagnetic Mott insulator with collinear spin correlations."
+http://arxiv.org/abs/cond-mat/0304171v1	2003-04-07T23:29:13Z	"A unified perspective is given on a number of different problems involving
+the coupling of a localized quantum spin degree of freedom to the low energy
+excitations of an antiferromagnet, a spin glass, or a Kondo insulator. The
+problems are related to those in the class often referred to as ""Bose Kondo""."
+http://arxiv.org/abs/cond-mat/0109309v3	2001-09-25T06:41:55Z	"We discuss the possibility of spin glass order in the vicinity of the
+unexpected metallic state of the two-dimensional electron gas in zero applied
+magnetic field. An average ferromagnetic moment may also be present, and the
+spin glass order then resides in the plane orthogonal to the ferromagnetic
+moment. We argue that a quantum transition involving the destruction of the
+spin glass order in an applied in-plane magnetic field offers a natural
+explanation of some features of recent magnetoconductance measurements. We
+present a quantum field theory for such a transition and compute its mean field
+properties."
+http://arxiv.org/abs/cond-mat/0109419v2	2001-11-23T20:41:18Z	"We review the theories of a few quantum phase transitions in two-dimensional
+correlated electron systems and discuss their application to the cuprate high
+temperature superconductors. The coupled-ladder antiferromagnet displays a
+transition between the Neel state and a spin gap paramagnet with a sharp S=1
+exciton: we develop a careful argument which eventually establishes that this
+transition is described by the familiar O(3) \phi^4 field theory in 2+1
+dimensions. Crucial to this argument is the role played by the quantum Berry
+phases. We illustrate this role in a one-dimensional example where our results
+can tested against those known from bosonization. On bipartite lattices in two
+dimensions, we study the influence of Berry phases on the quantum transition
+involving the loss of Neel order, and show that they induce bond-centered
+charge order (e.g. spin Peierls order) in the paramagnetic phase. We extend
+this theory of magnetic transitions in insulators to that between an ordinary
+d-wave superconductor and one with co-existing spin-density-wave order.
+Finally, we discuss quantum transitions between superconductors involving
+changes in the Cooper pair wavefunction, as in a transition between d_{x^2-y^2}
+and d_{x^2-y^2}+id_{xy} superconductors. A mean-field theory for this
+transition is provided by the usual BCS theory; however, BCS theory fails near
+the critical point, and we present the required field-theoretic extension. Our
+discussion includes a perspective on the phase diagram of the cuprate
+superconductors, in the context of recent experiments and the transitions
+discussed here."
+http://arxiv.org/abs/cond-mat/0110161v2	2001-10-10T14:58:48Z	"We review the non-zero temperature relaxational dynamics of quantum systems
+near a zero temperature, second-order phase transition. We begin with the
+quantum Ising chain, for which universal and exact results for the relaxation
+rates can be obtained in all the distinct limiting regimes of the phase
+diagram. Next, we describe the crossovers in the electron spectral function
+near a transition involving a change in the pairing symmetry of BCS
+superconductors in two dimensions. Finally, we consider dynamic spin models
+which may provide a mean-field description of magnetic ordering transitions in
+the heavy fermion compounds."
+http://arxiv.org/abs/cond-mat/0203363v3	2003-10-16T12:23:00Z	"I summarize recent results, obtained with E. Demler, K. Park, A. Polkovnikov,
+M. Vojta, and Y. Zhang, on spin and charge correlations near a magnetic quantum
+phase transition in the cuprates. STM experiments on slightly overdoped BSCCO
+(J.E. Hoffman et al., Science 295, 466 (2002)) are consistent with the
+nucleation of static charge order coexisting with dynamic spin correlations
+around vortices, and neutron scattering experiments have measured the magnetic
+field dependence of static spin order in the underdoped regime in LSCO (B. Lake
+et al., Nature 415, 299 (2002)) and LaCuO_4+y (B. Khaykovich et al., Phys. Rev.
+B 66, 014528 (2002)). Our predictions provide a semi-quantitative description
+of these observations, with only a single parameter measuring distance from the
+quantum critical point changing with doping level. These results suggest that a
+common theory of competing spin, charge and superconducting orders provides a
+unified description of all the cuprates."
+http://arxiv.org/abs/0901.4103v6	2009-04-23T14:03:32Z	"I survey theoretical advances in our understanding of the quantum phases and
+phase transitions of Mott insulators, and of allied conducting systems obtained
+by doping charge carriers. A number of new experimental examples of Mott
+insulators have appeared in recent years, and I critically compare their
+observed properties with the theoretical expectations."
+id	year	abstract
+http://arxiv.org/abs/cond-mat/0108238v4	2001-08-26T15:01:52Z	"We argue that aspects of the anomalous, low temperature, spin and charge
+dynamics of the high temperature superconductors can be understood by studying
+the corresponding physics of undoped Mott insulators. Such insulators display a
+quantum transition from a magnetically ordered Neel state to a confining
+paramagnet with a spin gap; the latter state has bond-centered charge order, a
+low energy S=1 spin exciton, confinement of S=1/2 spinons, and a free S=1/2
+moment near non-magnetic impurities. We discuss how these characteristics, and
+the quantum phase transitions, evolve upon doping the insulator into a d-wave
+superconductor. This theoretical framework was used to make a number of
+predictions for STM measurements and for the phase diagram of the doped Mott
+insulator in an applied magnetic field."
+http://arxiv.org/abs/cond-mat/0401041v1	2004-01-06T14:51:54Z	"This article contains a theoretical overview of the physical properties of
+antiferromagnetic Mott insulators in spatial dimensions greater than one. Many
+such materials have been experimentally studied in the past decade and a half,
+and we make contact with these studies. The simplest class of Mott insulators
+have an even number of S=1/2 spins per unit cell, and these can be described
+with quantitative accuracy by the bond operator method: we discuss their spin
+gap and magnetically ordered states, and the transitions between them driven by
+pressure or an applied magnetic field. The case of an odd number of S=1/2 spins
+per unit cell is more subtle: here the spin gap state can spontaneously develop
+bond order (so the ground state again has an even number of S=1/2 spins per
+unit cell), and/or acquire topological order and fractionalized excitations. We
+describe the conditions under which such spin gap states can form, and survey
+recent theories (T. Senthil et al., cond-mat/0312617) of the quantum phase
+transitions among these states and magnetically ordered states. We describe the
+breakdown of the Landau-Ginzburg-Wilson paradigm at these quantum critical
+points, accompanied by the appearance of emergent gauge excitations."
+http://arxiv.org/abs/1006.0675v1	2010-06-03T15:24:44Z	"A new renormalization group approach that maps lattice problems to tensor
+networks may hold the key to solving seemingly intractable models of strongly
+correlated systems in any dimension. A Physics Viewpoint on arXiv:0903.1069"
+http://arxiv.org/abs/cond-mat/0304137v2	2003-04-09T12:42:43Z	"This is a summary of a central argument in recent review articles by the
+author (cond-mat/0109419, cond-mat/0211005, and cond-mat/0211027). An effective
+field theory is derived for the low energy spin singlet excitations in a
+paramagnetic Mott insulator with collinear spin correlations."
+http://arxiv.org/abs/cond-mat/0304171v1	2003-04-07T23:29:13Z	"A unified perspective is given on a number of different problems involving
+the coupling of a localized quantum spin degree of freedom to the low energy
+excitations of an antiferromagnet, a spin glass, or a Kondo insulator. The
+problems are related to those in the class often referred to as ""Bose Kondo""."
+http://arxiv.org/abs/cond-mat/0109309v3	2001-09-25T06:41:55Z	"We discuss the possibility of spin glass order in the vicinity of the
+unexpected metallic state of the two-dimensional electron gas in zero applied
+magnetic field. An average ferromagnetic moment may also be present, and the
+spin glass order then resides in the plane orthogonal to the ferromagnetic
+moment. We argue that a quantum transition involving the destruction of the
+spin glass order in an applied in-plane magnetic field offers a natural
+explanation of some features of recent magnetoconductance measurements. We
+present a quantum field theory for such a transition and compute its mean field
+properties."
+http://arxiv.org/abs/cond-mat/0109419v2	2001-11-23T20:41:18Z	"We review the theories of a few quantum phase transitions in two-dimensional
+correlated electron systems and discuss their application to the cuprate high
+temperature superconductors. The coupled-ladder antiferromagnet displays a
+transition between the Neel state and a spin gap paramagnet with a sharp S=1
+exciton: we develop a careful argument which eventually establishes that this
+transition is described by the familiar O(3) \phi^4 field theory in 2+1
+dimensions. Crucial to this argument is the role played by the quantum Berry
+phases. We illustrate this role in a one-dimensional example where our results
+can tested against those known from bosonization. On bipartite lattices in two
+dimensions, we study the influence of Berry phases on the quantum transition
+involving the loss of Neel order, and show that they induce bond-centered
+charge order (e.g. spin Peierls order) in the paramagnetic phase. We extend
+this theory of magnetic transitions in insulators to that between an ordinary
+d-wave superconductor and one with co-existing spin-density-wave order.
+Finally, we discuss quantum transitions between superconductors involving
+changes in the Cooper pair wavefunction, as in a transition between d_{x^2-y^2}
+and d_{x^2-y^2}+id_{xy} superconductors. A mean-field theory for this
+transition is provided by the usual BCS theory; however, BCS theory fails near
+the critical point, and we present the required field-theoretic extension. Our
+discussion includes a perspective on the phase diagram of the cuprate
+superconductors, in the context of recent experiments and the transitions
+discussed here."
+http://arxiv.org/abs/cond-mat/0110161v2	2001-10-10T14:58:48Z	"We review the non-zero temperature relaxational dynamics of quantum systems
+near a zero temperature, second-order phase transition. We begin with the
+quantum Ising chain, for which universal and exact results for the relaxation
+rates can be obtained in all the distinct limiting regimes of the phase
+diagram. Next, we describe the crossovers in the electron spectral function
+near a transition involving a change in the pairing symmetry of BCS
+superconductors in two dimensions. Finally, we consider dynamic spin models
+which may provide a mean-field description of magnetic ordering transitions in
+the heavy fermion compounds."
+http://arxiv.org/abs/cond-mat/0203363v3	2003-10-16T12:23:00Z	"I summarize recent results, obtained with E. Demler, K. Park, A. Polkovnikov,
+M. Vojta, and Y. Zhang, on spin and charge correlations near a magnetic quantum
+phase transition in the cuprates. STM experiments on slightly overdoped BSCCO
+(J.E. Hoffman et al., Science 295, 466 (2002)) are consistent with the
+nucleation of static charge order coexisting with dynamic spin correlations
+around vortices, and neutron scattering experiments have measured the magnetic
+field dependence of static spin order in the underdoped regime in LSCO (B. Lake
+et al., Nature 415, 299 (2002)) and LaCuO_4+y (B. Khaykovich et al., Phys. Rev.
+B 66, 014528 (2002)). Our predictions provide a semi-quantitative description
+of these observations, with only a single parameter measuring distance from the
+quantum critical point changing with doping level. These results suggest that a
+common theory of competing spin, charge and superconducting orders provides a
+unified description of all the cuprates."
+http://arxiv.org/abs/0901.4103v6	2009-04-23T14:03:32Z	"I survey theoretical advances in our understanding of the quantum phases and
+phase transitions of Mott insulators, and of allied conducting systems obtained
+by doping charge carriers. A number of new experimental examples of Mott
+insulators have appeared in recent years, and I critically compare their
+observed properties with the theoretical expectations."
+http://arxiv.org/abs/0910.0846v2	2009-11-14T11:39:41Z	"I discuss a proposed phase diagram of the cuprate superconductors as a
+function of temperature, carrier concentration, and a strong magnetic field
+perpendicular to the layers. I show how the phase diagram gives a unified
+interpretation of a number of recent experiments."
+http://arxiv.org/abs/0910.1139v2	2010-05-15T09:00:02Z	"I review a variety of model systems and their quantum critical points,
+motivated by recent experimental and theoretical developments. These are used
+to present a general discussion of the non-zero temperature crossovers in the
+vicinity of a quantum critical point. Insights are drawn from the exact
+solutions of quantum critical transport obtained from the AdS/CFT
+correspondence. I conclude with a discussion of the role of quantum criticality
+in the phase diagram of the cuprate superconductors"
+http://arxiv.org/abs/1006.3794v3	2010-08-10T22:27:59Z	"We show that there is a close correspondence between the physical properties
+of holographic metals near charged black holes in anti-de Sitter (AdS) space,
+and the fractionalized Fermi liquid phase of the lattice Anderson model. The
+latter phase has a ""small"" Fermi surface of conduction electrons, along with a
+spin liquid of local moments. This correspondence implies that certain
+mean-field gapless spin liquids are states of matter at non-zero density
+realizing the near-horizon, AdS_2 x R^2 physics of Reissner-Nordstrom black
+holes."
+http://arxiv.org/abs/1012.0299v5	2011-04-29T13:22:27Z	"I present a pedagogical survey of a variety of quantum phases of the Hubbard
+model. The honeycomb lattice model has a conformal field theory connecting the
+semi-metal to the insulator with Neel order. States with fractionalized
+excitations are linked to the deconfined phases of gauge theories. I also
+consider the confining phases of such gauge theories, and show how Berry phases
+of monopoles induce valence bond solid order. The triangular lattice model can
+display a metal-insulator transition from a Fermi liquid to a deconfined spin
+liquid, and I describe the theory of this transition. The bilayer triangular
+lattice is used to illustrate another compressible metallic phase, the
+`fractionalized Fermi liquid'. I make numerous connections of these phases and
+critical points to the AdS/CFT correspondence. In particular, I argue that two
+recent holographic constructions connect respectively to the Fermi liquid and
+fractionalized Fermi liquid phases."
+http://arxiv.org/abs/1105.1793v1	2011-05-09T20:41:10Z	"I give a unified perspective on the properties of a variety of quantum
+liquids using the theory of quantum phase transitions. A central role is played
+by a zero density quantum critical point which is argued to control the
+properties of the dilute gas. An exact renormalization group analysis of such
+quantum critical points leads to a computation of the universal properties of
+the dilute Bose gas and the spinful Fermi gas near a Feshbach resonance."
+http://arxiv.org/abs/1108.1197v4	2012-04-11T12:04:42Z	"I discuss the impact of gauge-gravity duality on our understanding of two
+classes of systems: conformal quantum matter and compressible quantum matter.
+  The first conformal class includes systems, such as the boson Hubbard model
+in two spatial dimensions, which display quantum critical points described by
+conformal field theories. Questions associated with non-zero temperature
+dynamics and transport are difficult to answer using conventional field
+theoretic methods. I argue that many of these can be addressed systematically
+using gauge-gravity duality, and discuss the prospects for reliable computation
+of low frequency correlations.
+  Compressible quantum matter is characterized by the smooth dependence of the
+charge density, associated with a global U(1) symmetry, upon a chemical
+potential. Familiar examples are solids, superfluids, and Fermi liquids, but
+there are more exotic possibilities involving deconfined phases of gauge fields
+in the presence of Fermi surfaces. I survey the compressible systems studied
+using gauge-gravity duality, and discuss their relationship to the condensed
+matter classification of such states. The gravity methods offer hope of a
+deeper understanding of exotic and strongly-coupled compressible quantum
+states."
+http://arxiv.org/abs/1209.1637v2	2012-09-14T13:11:43Z	"Conformal field theories (CFTs) with a globally conserved U(1) charge Q can
+be deformed into compressible phases by modifying their Hamiltonian, H, by a
+chemical potential H -> H - \mu Q. We study 2+1 dimensional CFTs upon which an
+explicit S duality mapping can be performed. We find that this construction
+leads naturally to compressible phases which are superfluids, solids, or
+non-Fermi liquids which are more appropriately called `Bose metals' in the
+present context. The Bose metal preserves all symmetries and has Fermi surfaces
+of gauge-charged fermions, even in cases where the parent CFT can be expressed
+solely by bosonic degrees of freedom. Monopole operators are identified as
+order parameters of the solid, and the product of their magnetic charge and Q
+determines the area of the unit cell. We discuss implications for holographic
+theories on asymptotically AdS4 spacetimes: S duality and monopole/dyon fields
+play important roles in this connection."
+http://arxiv.org/abs/1512.00465v2	2015-12-07T19:55:23Z	"The quantum entanglement of many states of matter can be represented by
+electric and magnetic fields, much like those found in Maxwell's theory. These
+fields ""emerge"" from the quantum structure of the many-electron state, rather
+than being fundamental degrees of freedom of the vacuum. I review basic aspects
+of the theory of emergent gauge fields in insulators in an intuitive manner. In
+metals, Fermi liquid theory relies on adiabatic continuity from the free
+electron state, and its central consequence is the existence of long-lived
+electron-like quasiparticles around a Fermi surface enclosing a volume
+determined by the total density of electrons, via the Luttinger theorem.
+However long-range entanglement and emergent gauge fields can also be present
+in metals. I focus on the ""fractionalized Fermi liquid"" (FL*) state, which also
+has long-lived electron-like quasiparticles around a Fermi surface; however the
+Luttinger theorem on the Fermi volume is violated, and this requires the
+presence of emergent gauge fields, and the associated loss of adiabatic
+continuity to the free electron state. Finally, I present a brief survey of
+some recent experiments in the hole-doped cuprate superconductors, and
+interpret the properties of the pseudogap regime in the framework of the FL*
+theory."
+http://arxiv.org/abs/1107.5321v2	2011-08-04T20:01:31Z	"We use gauge-gravity duality to model the crossover from a conformal critical
+point to a confining Fermi liquid, driven by a change in fermion density. The
+short-distance conformal physics is represented by an anti-de Sitter geometry,
+which terminates into a confining state along the emergent spatial direction.
+The Luttinger relation, relating the area enclosed by the Fermi surfaces to the
+fermion density, is shown to follow from Gauss's Law for the bulk electric
+field. We argue that all low energy modes are consistent with Landau's Fermi
+liquid theory. An explicit solution is obtained for the Fermi liquid for the
+case of hard-wall boundary conditions in the infrared."
+http://arxiv.org/abs/1002.2947v1	2010-02-16T17:24:49Z	"I review two classes of strong coupling problems in condensed matter physics,
+and describe insights gained by application of the AdS/CFT correspondence. The
+first class concerns non-zero temperature dynamics and transport in the
+vicinity of quantum critical points described by relativistic field theories. I
+describe how relativistic structures arise in models of physical interest,
+present results for their quantum critical crossover functions and
+magneto-thermoelectric hydrodynamics. The second class concerns symmetry
+breaking transitions of two-dimensional systems in the presence of gapless
+electronic excitations at isolated points or along lines (i.e. Fermi surfaces)
+in the Brillouin zone. I describe the scaling structure of a recent theory of
+the Ising-nematic transition in metals, and discuss its possible connection to
+theories of Fermi surfaces obtained from simple AdS duals."
+http://arxiv.org/abs/1902.04078v3	2019-04-23T08:31:04Z	"We consider the low temperature quantum theory of a charged black hole of
+zero temperature horizon radius $R_h$, in a spacetime which is asymptotically
+AdS$_{D}$ ($D > 3$) far from the horizon. At temperatures $T \ll 1/R_h$, the
+near-horizon geometry is AdS$_2$, and the black hole is described by a
+universal 0+1 dimensional effective quantum theory of time diffeomorphisms with
+a Schwarzian action, and a phase mode conjugate to the U(1) charge. We obtain
+this universal 0+1 dimensional effective theory starting from the full
+$D$-dimensional Einstein-Maxwell theory, while keeping quantitative track of
+the couplings. The couplings of the effective theory are found to be in
+agreement with those expected from the thermodynamics of the $D$-dimensional
+black hole."
+http://arxiv.org/abs/0711.3015v4	2008-03-09T10:22:21Z	"Magnetic insulators have proved to be fertile ground for studying new types
+of quantum many body states, and I survey recent experimental and theoretical
+examples. The insights and methods transfer also to novel superconducting and
+metallic states. Of particular interest are critical quantum states, sometimes
+found at quantum phase transitions, which have gapless excitations with no
+particle- or wave-like interpretation, and control a significant portion of the
+finite temperature phase diagram. Remarkably, their theory is connected to
+holographic descriptions of Hawking radiation from black holes."
+http://arxiv.org/abs/0907.0008v7	2009-09-28T13:36:00Z	"Transport measurements in the hole-doped cuprates show a ""strange metal""
+normal state with an electrical resistance which varies linearly with
+temperature. This strange metal phase is often identified with the quantum
+critical region of a zero temperature quantum critical point (QCP) at hole
+density x=x_m, near optimal doping. A long-standing problem with this picture
+is that low temperature experiments within the superconducting phase have not
+shown convincing signatures of such a optimal doping QCP (except in some
+cuprates with small superconducting critical temperatures). I review
+theoretical work which proposes a simple resolution of this enigma.
+  The crossovers in the normal state are argued to be controlled by a QCP at
+x_m linked to the onset of spin density wave (SDW) order in a ""large"" Fermi
+surface metal, leading to small Fermi pockets for x<x_m. A key effect is that
+the onset of superconductivity at low temperatures disrupts the simplest
+canonical quantum critical crossover phase diagram. In particular, the
+competition between superconductivity and SDW order_shifts_ the actual QCP to a
+lower doping x_s < x_m in the underdoped regime, so that SDW order is only
+present for x<x_s. I review the phase transitions and crossovers associated
+with the QCPs at x_m and x_s: the resulting phase diagram as a function of x,
+temperature, and applied magnetic field consistently explains a number of
+recent experiments."
+http://arxiv.org/abs/1010.0682v3	2010-11-05T09:30:42Z	"I begin with a review of quantum impurity models in condensed matter physics,
+in which a localized spin degree of freedom is coupled to an interacting
+conformal field theory in d = 2 spatial dimensions. Their properties are
+similar to those of supersymmetric generalizations which can be solved by the
+AdS/CFT correspondence; the low energy limit of the latter models is described
+by a AdS2 geometry. Then I turn to Kondo lattice models, which can be described
+by a mean- field theory obtained by a mapping to a quantum impurity coupled to
+a self-consistent environment. Such a theory yields a 'fractionalized Fermi
+liquid' phase of conduction electrons coupled to a critical spin liquid state,
+and is an attractive mean-field theory of strange metals. The recent
+holographic description of strange metals with a AdS2 x R2 geometry is argued
+to be related to such mean-field solutions of Kondo lattice models."
+http://arxiv.org/abs/1203.4565v4	2012-05-22T19:41:27Z	"I present a selective survey of the phases of quantum matter with varieties
+of many-particle quantum entanglement. I classify the phases as gapped,
+conformal, or compressible quantum matter. Gapped quantum matter is illustrated
+by a simple discussion of the Z_2 spin liquid, and connections are made to
+topological field theories. I discuss how conformal matter is realized at
+quantum critical points of realistic lattice models, and make connections to a
+number of experimental systems. Recent progress in our understanding of
+compressible quantum phases which are not Fermi liquids is summarized. Finally,
+I discuss how the strongly-coupled phases of quantum matter may be described by
+gauge-gravity duality. The structure of the large N limit of SU(N) gauge
+theory, coupled to adjoint fermion matter at non-zero density, suggests aspects
+of gravitational duals of compressible quantum matter."
+http://arxiv.org/abs/1506.05111v4	2015-08-12T01:00:55Z	"We examine models of fermions with infinite-range interactions which realize
+non-Fermi liquids with a continuously variable U(1) charge density
+$\mathcal{Q}$, and a non-zero entropy density $\mathcal{S}$ at vanishing
+temperature. Real time correlators of operators carrying U(1) charge $q$ at a
+low temperature $T$ are characterized by a $\mathcal{Q}$-dependent frequency
+$\omega_{\mathcal{S}} = (q \, T/\hbar) (\partial
+\mathcal{S}/\partial{\mathcal{Q}})$ which determines a spectral asymmetry. We
+show that the correlators match precisely with those of the AdS$_2$ horizons of
+extremal charged black holes. On the black hole side, the matching employs
+$\mathcal{S}$ as the Bekenstein-Hawking entropy density, and the laws of black
+hole thermodynamics which relate
+$(\partial{\mathcal{S}}/\partial{\mathcal{Q}})/(2 \pi)$ to the electric field
+strength in AdS$_2$. The fermion model entropy is computed using the
+microscopic degrees of freedom of a UV complete theory without supersymmetry."
+http://arxiv.org/abs/1002.3823v4	2011-10-26T19:25:58Z	"I begin with a proposed global phase diagram of the cuprate superconductors
+as a function of carrier concentration, magnetic field, and temperature, and
+highlight its connection to numerous recent experiments. The phase diagram is
+then used as a point of departure for a pedagogical review of various quantum
+phases and phase transitions of insulators, superconductors, and metals. The
+bond operator method is used to describe the transition of dimerized
+antiferromagnetic insulators between magnetically ordered states and spin-gap
+states. The Schwinger boson method is applied to frustrated square lattice
+antiferromagnets: phase diagrams containing collinear and spirally ordered
+magnetic states, Z_2 spin liquids, and valence bond solids are presented, and
+described by an effective gauge theory of spinons. Insights from these theories
+of insulators are then applied to a variety of symmetry breaking transitions in
+d-wave superconductors. The latter systems also contain fermionic
+quasiparticles with a massless Dirac spectrum, and their influence on the order
+parameter fluctuations and quantum criticality is carefully discussed. I
+conclude with an introduction to strong coupling problems associated with
+symmetry breaking transitions in two-dimensional metals, where the order
+parameter fluctuations couple to a gapless line of fermionic excitations along
+the Fermi surface."
+http://arxiv.org/abs/1801.01125v5	2018-09-10T13:47:00Z	"We begin with an introduction to topological order using Wegner's quantum
+$Z_2$ gauge theory on the square lattice: the topological state is
+characterized by the expulsion of defects, carrying $Z_2$ magnetic flux. The
+interplay between topological order and the breaking of global symmetry is
+described by the non-zero temperature statistical mechanics of classical XY
+models in dimension $D=3$; such models also describe the zero temperature
+quantum phases of bosons with short-range interactions on the square lattice at
+integer filling. The topological state is again characterized by the expulsion
+of certain defects, in a state with fluctuating symmetry-breaking order, along
+with the presence of emergent gauge fields. The phase diagrams of the $Z_2$
+gauge theory and the XY models are obtained by embedding them in U(1) gauge
+theories, and by studying their Higgs and confining phases. These ideas are
+then applied to the single-band Hubbard model on the square lattice. A SU(2)
+gauge theory describes the fluctuations of spin-density-wave order, and its
+phase diagram is presented by analogy to the XY models. We obtain a class of
+zero temperature metallic states with fluctuating spin-density wave order,
+topological order associated with defect expulsion, deconfined emergent gauge
+fields, reconstructed Fermi surfaces (with `chargon' or electron-like
+quasiparticles), but no broken symmetry. We conclude with the application of
+such metallic states to the pseudogap phase of the cuprates, and note the
+recent comparison with numerical studies of the Hubbard model and photoemission
+observations of the electron-doped cuprates. In a detour, we also discuss the
+influence of Berry phases, and how they can lead to deconfined quantum critical
+points: this applies to bosons on the square lattice at half-integer filling,
+and to quantum dimer models."
+http://arxiv.org/abs/cond-mat/0211005v6	2003-06-30T13:29:59Z	"It is now widely accepted that the cuprate superconductors are characterized
+by the same long-range order as that present in the Bardeen-Cooper-Schrieffer
+(BCS) theory: that associated with the condensation of Cooper pairs. We argue
+that many physical properties of the cuprates require interplay with additional
+order parameters associated with a proximate Mott insulator. We review a
+classification of Mott insulators in two dimensions, and contend that the
+experimental evidence so far shows that the class appropriate to the cuprates
+has collinear spin correlations, bond order, and confinement of neutral, spin
+S=1/2 excitations. Proximity to second-order quantum phase transitions
+associated with these orders, and with the pairing order of BCS, has led to
+systematic predictions for many physical properties. We use this context to
+review the results of recent neutron scattering, fluxoid detection, nuclear
+magnetic resonance, and scanning tunnelling microscopy experiments."
+http://arxiv.org/abs/cond-mat/0308063v1	2003-08-04T20:04:43Z	"We review recent work on a continuum, classical theory of thermal
+fluctuations in two dimensional superconductors. A functional integral over a
+Ginzburg-Landau free energy describes the amplitude and phase fluctuations
+responsible for the crossover from Gaussian fluctuations of the superconducting
+order at high temperatures, to the vortex physics of the Kosterlitz-Thouless
+transition at lower temperatures. Results on the structure of this crossover
+are presented, including new results for corrections to the Aslamazov-Larkin
+fluctuation conductivity."
+http://arxiv.org/abs/cond-mat/0011233v1	2000-11-14T01:33:00Z	"We consider the quantum field theory of a single, immobile, spin S hole
+coupled to a two-dimensional antiferromagnet at a bulk quantum critical point
+between phases with and without magnetic long-range order. We present an
+alternative derivation of its two-loop beta function; the results agree
+completely with earlier work (M. Vojta et al, cond-mat/9912020), and also
+determine a new anomalous dimension of the hole creation operator."
+http://arxiv.org/abs/cond-mat/0211027v2	2003-01-16T09:38:25Z	"This article surveys the physics of systems proximate to Mott insulators, and
+presents a classification using conventional and topological order parameters.
+This classification offers a valuable perspective on a variety of conducting
+correlated electron systems, from the cuprate superconductors to the heavy
+fermion compounds. Connections are drawn, and distinctions made, between
+collinear/non-collinear magnetic order, bond order, neutral spin 1/2
+excitations in insulators, electron Fermi surfaces which violate Luttinger's
+theorem, fractionalization of the electron, and the fractionalization of
+bosonic collective modes. Two distinct categories of Z_2 gauge theories are
+used to describe the interplay of these orders. Experimental implications for
+the cuprates are briefly noted, but these appear in more detail in a companion
+review article (S. Sachdev, cond-mat/0211005)."
+http://arxiv.org/abs/cond-mat/0108214v2	2001-08-24T20:20:24Z	"We explore the ground states and quantum phase transitions of
+two-dimensional, spin S=1/2, antiferromagnets by generalizing lattice models
+and duality transforms introduced by Sachdev and Jalabert (Mod. Phys. Lett. B
+4, 1043 (1990), http://onsager.physics.yale.edu/p32.pdf). The `minimal' model
+for square lattice antiferromagnets is a lattice discretization of the quantum
+non-linear sigma model, along with Berry phases which impose quantization of
+spin. With full SU(2) spin rotation invariance, we find a magnetically ordered
+ground state with Neel order at weak coupling, and a confining paramagnetic
+ground state with bond charge (e.g. spin Peierls) order at strong coupling. We
+study the mechanisms by which these two states are connected in intermediate
+coupling. We extend the minimal model to study different routes to
+fractionalization and deconfinement in the ground state, and also generalize it
+to cases with a uniaxial anisotropy (the spin symmetry group is then U(1)). For
+the latter systems, fractionalization can appear by the pairing of vortices in
+the staggered spin order in the easy-plane; however, we argue that this route
+does not survive the restoration of SU(2) spin symmetry. For SU(2) invariant
+systems we study a separate route to fractionalization associated with the
+Higgs phase of a complex boson measuring non-collinear, spiral spin
+correlations: we present phase diagrams displaying competition between magnetic
+order, bond charge order, and fractionalization, and discuss the nature of the
+quantum transitions between the various states. A strong check on our methods
+is provided by their application to S=1/2 frustrated antiferromagnets in one
+dimension: here, our results are in complete accord with those obtained by
+bosonization and by the solution of integrable models."
+http://arxiv.org/abs/cond-mat/0112003v1	2001-12-02T18:24:08Z	"We describe the zero temperature phases and phase boundaries of an effective
+lattice model for frustrated, easy-plane, spin S=1/2 quantum antiferromagnets.
+The model contains states with Neel and bond-centered charge order and
+fractionalization in different limiting regimes, and we describe how these
+orders compete at intermediate coupling. The complex Berry phase terms render
+this model unsuitable for direct simulation; however, a duality mapping leads
+to a model of interacting current loops with positive weights, which is then
+studied by Monte Carlo simulations."
+http://arxiv.org/abs/cond-mat/0409519v1	2004-09-21T12:22:49Z	"We study Heisenberg antiferromagnets with nearest- (J1) and third- (J3)
+neighbor exchange on the square lattice. In the limit of large spin S, there is
+a zero temperature (T) Lifshitz point at J3 = (1/4) J1, with long-range spiral
+spin order at T=0 for J3 > (1/4) J1. We present classical Monte Carlo
+simulations and a theory for T>0 crossovers near the Lifshitz point: spin
+rotation symmetry is restored at any T>0, but there is a broken lattice
+reflection symmetry for 0 <= T < Tc ~ (J3-(1/4) J1) S^2. The transition at T=Tc
+is consistent with Ising universality. We also discuss the quantum phase
+diagram for finite S."
+http://arxiv.org/abs/cond-mat/0507380v2	2005-07-19T12:59:54Z	"A semiclassical approach to the low-temperature real time dynamics of generic
+one-dimensional, gapped models in the sine-Gordon model universality class is
+developed. Asymptotically exact universal results for correlation functions are
+obtained in the temperature regime T << Delta, where Delta is the energy gap."
+http://arxiv.org/abs/cond-mat/0511353v1	2005-11-14T21:01:23Z	"In the O(3) sigma-model description of gapped spin systems, S=1 magnons can
+only decay into three lower energy magnons. We argue that the symmetry of the
+quantum spin Hamiltonian often allows decay into two magnons, and compute this
+decay rate in model systems. Two magnon decay is present in Haldane gap S=1
+spin chains, even though it cannot be induced by any allowed term written in
+powers and gradients of the sigma-model field. We compare our results with
+recent measurements of Stone et al. (cond-mat/0511266) on a two-dimensional
+spin system."
+http://arxiv.org/abs/0711.3460v2	2007-11-24T08:43:53Z	"We propose a critical spin liquid ground state for S=1/2 antiferromagnets on
+the square lattice. In a renormalization group analysis of the `staggered flux'
+algebraic spin liquid, we examine perturbations, present in the
+antiferromagnet, which break its global SU(4) symmetry to SO(5). At physical
+parameter values, we find an instability towards a fixed point with SO(5)
+symmetry. We discuss the possibility that this fixed point describes a
+transition between the Neel and valence bond solid states, and the relationship
+to the SO(5) non-linear sigma model of Tanaka and Hu."
+http://arxiv.org/abs/0904.3018v1	2009-04-20T12:47:41Z	"Motivated by recent experiments on TmB4 (arXiv:0712.1537), we examine the
+phase diagram of the Shastry-Sutherland antiferromagnet in an applied magnetic
+field in the limit of strong Ising anisotropy. In classical Ising limit, we
+demonstrate that the only fractional magnetization plateau is at 1/3 of the
+saturated magnetization. We study the perturbative influence of transverse
+quantum spin fluctuations, and present evidence that they can stabilize a
+narrow 1/2 magnetization plateau."
+http://arxiv.org/abs/0910.4917v1	2009-10-26T16:15:08Z	"We investigate magento-oscillations in the specific heat of non-relativistic
+fermions with a Fermi surface minimally coupled to a fluctuating U(1) gauge
+field. Our study is motivated by the recent observation of quantum oscillations
+in the underdoped cuprates, and by theoretical models of pocket Fermi surfaces
+realizing a non-Fermi liquid `algebraic charge liquid'. Our main result is the
+computation of the order 1/N correction to the Lifshitz-Kosevich expression for
+the oscillation amplitude in the dirty limit in a model with N species of
+fermions."
+http://arxiv.org/abs/0912.0943v2	2010-03-01T16:40:41Z	"We describe fluctuating two-dimensional metallic antiferromagnets by
+transforming to a rotating reference frame in which the electron spin
+polarization is measured by its projections along the local antiferromagnetic
+order. This leads to a gauge-theoretic description of an `algebraic charge
+liquid' involving spinless fermions and a spin S=1/2 complex scalar. We propose
+a phenomenological effective lattice Hamiltonian which describes the binding of
+these particles into gauge-neutral, electron-like excitations, and describe its
+implications for the electron spectral function across the entire Brillouin
+zone. We discuss connections of our results to photoemission experiments in the
+pseudogap regime of the cuprate superconductors."
+http://arxiv.org/abs/1004.5431v3	2010-10-20T07:36:54Z	"We describe ground states of correlated electron systems in which the
+electron fractionalizes into separate quasiparticles which carry its spin and
+its charge, and into real Majorana fermions which carry its Fermi statistics.
+Such parent states provide a unified theory of previously studied
+fractionalized states: their descendants include insulating and conducting
+states with neutral spin S=1/2 fermionic spinons, and states with spinless
+fermionic charge carriers. We illustrate these ideas on the honeycomb lattice,
+with field theories of such states and their phase transitions."
+http://arxiv.org/abs/1702.04723v2	2017-04-13T00:57:32Z	"Quantum electrodynamics in 2+1-dimensions (QED$_3$) is a strongly coupled
+conformal field theory (CFT) of a U(1) gauge field coupled to $2N$
+two-component massless fermions. The $N=2$ CFT has been proposed as a ground
+state of the spin-1/2 kagome Heisenberg antiferromagnet. We study QED$_3$ in
+the presence of weak quenched disorder in its two spatial directions. When the
+disorder explicitly breaks the fermion flavor symmetry from
+SU($2N$)$\rightarrow$U(1)$\times$SU($N$) but preserves time-reversal symmetry,
+we find that the theory flows to a non-trivial fixed line at non-zero disorder
+with a continuously varying dynamical critical exponent $z>1$. We determine the
+zero-temperature flavor (spin) conductivity along the critical line. Our
+calculations are performed in the large-$N$ limit, and the disorder is handled
+using the replica method."
+http://arxiv.org/abs/1202.4023v1	2012-02-17T21:00:01Z	"We calculate the Fermi surface of electrons in hole-doped, extended t-J
+models on a square lattice in a regime where no long-range antiferromagnetic
+order is present, and no symmetries are broken. Using the ""spinon-dopon""
+formalism of Ribeiro and Wen, we show that short-range antiferromagnetic
+correlations lead to a reconstruction of the Fermi surface into hole pockets
+which are not necessarily centered at the antiferromagnetic Brillouin zone
+boundary. The Brillouin zone area enclosed by the Fermi surface is proportional
+to the density of dopants away from half-filling, in contrast to the
+conventional Luttinger theorem which counts the total electron density. This
+state realizes a ""fractionalized Fermi liquid"" (FL*), which has been proposed
+as a possible ground-state of the underdoped cuprates; we note connections to
+recent experiments. We also discuss the quantum phase transition from the FL*
+state to the Fermi liquid state with long-range antiferromagnetic order."
+http://arxiv.org/abs/1410.3483v3	2015-02-23T04:22:02Z	"We examine trends in the wavevectors and form-factors of charge density wave
+instabilities of three-band models of the underdoped cuprates. For
+instabilities from a high temperature state with a large Fermi surface, we
+extend a study by Bulut et al. (arXiv:1305.3301) to include a direct
+antiferromagnetic exchange coupling between the Cu sites. As in previous work,
+we invariably find that the primary instability has a diagonal wavevector $(\pm
+Q_0, \pm Q_0)$ and a $d$-form factor. The experimentally observed wavevectors
+along the principal axes $(\pm Q_0,0)$, $(0, \pm Q_0)$ have higher energy, but
+they also have a predominantly $d$-form factor. Next, we gap out the Fermi
+surface in the anti-nodal regions of the Brillouin zone by including static,
+long-range antiferromagnetic order at the wavevector $(\pi, \pi)$: this is a
+simple model of the pseudogap in which we assume the antiferromagnetic order
+averages to zero by `renormalized classical' thermal fluctuations in its
+orientation, valid when the antiferromagnetic correlation length is large. The
+charge density wave instabilities of this pseudogap state are found to have the
+optimal wavevector $(\pm Q_0,0)$, $(0, \pm Q_0)$, with the magnitude of the
+$d$-form factor decreasing with increasing magnetic order."
+http://arxiv.org/abs/1509.03314v1	2015-09-10T20:04:14Z	"We argue that topological Kondo insulators can also have 'intrinsic'
+topological order associated with fractionalized excitations on their surfaces.
+The hydridization between the local moments and conduction electrons can weaken
+near the surface, and this enables the local moments to form spin liquids. This
+co-exists with the conduction electron surface states, realizing a surface
+fractionalized Fermi liquid. We present mean-field solutions of a
+Kondo-Heisenberg model which display such surfaces."
+http://arxiv.org/abs/1603.05652v2	2016-08-12T18:06:51Z	"We describe the finite-size spectrum in the vicinity of the quantum critical
+point between a $\mathbb{Z}_2$ spin liquid and a coplanar antiferromagnet on
+the torus. We obtain the universal evolution of all low-lying states in an
+antiferromagnet with global SU(2) spin rotation symmetry, as it moves from the
+4-fold topological degeneracy in a gapped $\mathbb{Z}_2$ spin liquid to the
+Anderson ""tower-of-states"" in the ordered antiferromagnet. Due to the existence
+of nontrivial order on either side of this transition, this critical point
+cannot be described in a conventional Landau-Ginzburg-Wilson framework. Instead
+it is described by a theory involving fractionalized degrees of freedom known
+as the O$(4)^\ast$ model, whose spectrum is altered in a significant way by its
+proximity to a topologically ordered phase. We compute the spectrum by relating
+it to the spectrum of the O$(4)$ Wilson-Fisher fixed point on the torus,
+modified with a selection rule on the states, and with nontrivial boundary
+conditions corresponding to topological sectors in the spin liquid. The
+spectrum of the critical O($2N$) model is calculated directly at $N=\infty$,
+which then allows a reconstruction of the full spectrum of the O($2N)^\ast$
+model at leading order in 1/N. This spectrum is a unique characteristic of the
+vicinity of a fractionalized quantum critical point, as well as a universal
+signature of the existence of proximate $\mathbb{Z}_2$ topological and
+antiferromagnetically-ordered phases, and can be compared with numerical
+computations on quantum antiferromagnets on two dimensional lattices."
+http://arxiv.org/abs/cond-mat/9705074v2	1997-05-16T18:43:49Z	"We present a unified, global perspective on the magnetic properties of
+strongly disordered electronic systems, with special emphasis on the case where
+the ground state is metallic. We review the arguments for the instability of
+the disordered Fermi liquid state towards the formation of local magnetic
+moments, and argue that their singular low temperature thermodynamics are the
+``quantum Griffiths'' precursors of the quantum phase transition to a metallic
+spin glass; the local moment formation is therefore not directly related to the
+metal-insulator transition. We also review the the mean-field theory of the
+disordered Fermi liquid to metallic spin glass transition and describe the
+separate regime of ``non-Fermi liquid'' behavior at higher temperatures near
+the quantum critical point. The relationship to experimental results on doped
+semiconductors and heavy-fermion compounds is noted."
+http://arxiv.org/abs/cond-mat/9709243v1	1997-09-22T18:34:53Z	"In an earlier work, Damle and the author (Phys. Rev. B in press;
+cond-mat/9705206) demonstrated the central role played by incoherent, inelastic
+processes in transport near two-dimensional quantum critical points. This paper
+extends these results to the case of a quantum transition in an anyon gas
+between a fractional quantized Hall state and an insulator, induced by varying
+the strength of an external periodic potential. We use the quantum field theory
+for this transition introduced by Chen, Fisher and Wu (Phys. Rev. B 48, 13749
+(1993)). The longitudinal and Hall conductivities at the critical point are
+both $e^2/ h$ times non-trivial, fully universal functions of $\hbar \omega /
+k_B T$ ($\omega$ is the measuring frequency). These functions are computed
+using a combination of perturbation theory on the Kubo formula, and the
+solution of a quantum Boltzmann equation for the anyonic quasiparticles and
+quasiholes. The results include the values of the d.c. conductivities ($\hbar
+\omega /k_B T \to 0$); earlier work had been restricted strictly to T=0, and
+had therefore computed only the high frequency a.c. conductivities with $\hbar
+\omega / k_B T \to \infty$."
+http://arxiv.org/abs/cond-mat/9811110v2	2000-06-21T14:11:31Z	"This paper presents a unified perspective on the results of two recent works
+(C. Buragohain and S. Sachdev cond-mat/9811083 and S. Sachdev cond-mat/9810399)
+along with additional background. We describe the low frequency, non-zero
+temperature, order parameter relaxational dynamics of a number of systems in
+the vicinity of a quantum critical point. The dynamical correlations are
+properties of the high temperature limit of renormalizable quantum field
+theories in spatial dimensions d=1,2. We study, as a function of d and the
+number of order parameter components, n, the crossover from the finite
+frequency, ""amplitude fluctuation"", gapped quasiparticle mode in the quantum
+paramagnet (or Mott insulator), to the zero frequency ""phase"" (n>=2) or ""domain
+wall"" (n=1) relaxation mode near the ordered phase. Implications for dynamic
+measurements on the high temperature superconductors and antiferromagnetic spin
+chains are noted."
+http://arxiv.org/abs/cond-mat/0009456v3	2000-11-06T15:39:28Z	"Small changes in an external parameter can often lead to dramatic qualitative
+changes in the lowest energy quantum mechanical ground state of a correlated
+electron system. In anisotropic crystals, such as the high temperature
+superconductors where electron motion occurs primarily on a two-dimensional
+square lattice, the quantum critical point between two such lowest energy
+states has non-trivial emergent excitations which control the physics over a
+significant portion of the phase diagram. Non-zero temperature dynamic
+properties near quantum critical points are described using simple theoretical
+models. Possible quantum phases and transitions of the two-dimensional electron
+gas on a square lattice are discussed, including phases with spin-charge
+separation and their experimental signatures."
+http://arxiv.org/abs/cond-mat/9705266v1	1997-05-27T00:17:21Z	"The physics of non-zero temperature dynamics and transport near
+quantum-critical points is discussed by a detailed study of the O(N)-symmetric,
+relativistic, quantum field theory of a N-component scalar field in $d$ spatial
+dimensions. A great deal of insight is gained from a simple, exact solution of
+the long-time dynamics for the N=1 d=1 case: this model describes the critical
+point of the Ising chain in a transverse field, and the dynamics in all the
+distinct, limiting, physical regions of its finite temperature phase diagram is
+obtained. The N=3, d=1 model describes insulating, gapped, spin chain
+compounds: the exact, low temperature value of the spin diffusivity is
+computed, and compared with NMR experiments. The N=3, d=2,3 models describe
+Heisenberg antiferromagnets with collinear N\'{e}el correlations, and
+experimental realizations of quantum-critical behavior in these systems are
+discussed. Finally, the N=2, d=2 model describes the superfluid-insulator
+transition in lattice boson systems: the frequency and temperature dependence
+of the the conductivity at the quantum-critical coupling is described and
+implications for experiments in two-dimensional thin films and inversion layers
+are noted."
+http://arxiv.org/abs/cond-mat/9810399v4	1999-02-12T19:02:15Z	"We describe the nonzero temperature (T), low frequency (\omega) dynamics of
+the order parameter near quantum critical points in two spatial dimensions (d),
+with a special focus on the regime \hbar\omega << k_B T. For the case of a
+`relativistic', O(n)-symmetric, bosonic quantum field theory we show that, for
+small \epsilon=3-d, the dynamics is described by an effective classical model
+of waves with a quartic interaction. We provide analytical and numerical
+analyses of the classical wave model directly in d=2. We describe the crossover
+from the finite frequency, ""amplitude fluctuation"", gapped quasiparticle mode
+in the quantum paramagnet (or Mott insulator), to the zero frequency ""phase"" (n
+>= 2) or ""domain wall"" (n=1) relaxation mode near the ordered state. For static
+properties, we show how a surprising, duality-like transformation allows an
+exact treatment of the strong-coupling limit for all n. For n=2, we compute the
+universal T dependence of the superfluid density below the Kosterlitz-Thouless
+temperature, and discuss implications for the high temperature superconductors.
+For n=3, our computations of the dynamic structure factor relate to neutron
+scattering experiments on La_{1.85}Sr_{0.15}CuO_4, and to light scattering
+experiments on double layer quantum Hall systems. We expect that closely
+related effective classical wave models will apply also to other quantum
+critical points in d=2."
+http://arxiv.org/abs/cond-mat/9610115v1	1996-10-15T00:07:23Z	"An effective, low temperature, classical model for spin transport in the
+one-dimensional, gapped, quantum $O(3)$ non-linear $\sigma$-model is developed.
+Its correlators are obtained by a mapping to a model solved earlier by Jepsen.
+We obtain universal functions for the ballistic-to-diffusive crossover and the
+value of the spin diffusion constant, and these are claimed to be exact at low
+temperatures. Implications for experiments on one-dimensional insulators with a
+spin gap are noted."
+http://arxiv.org/abs/cond-mat/0305193v2	2003-10-13T19:29:24Z	"This paper is concerned with the weak-moment magnetism in heavy-fermion
+materials and its relation to the non-Fermi liquid physics observed near the
+transition to the Fermi liquid. We explore the hypothesis that the primary
+fluctuations responsible for the non-Fermi liquid physics are those associated
+with the destruction of the large Fermi surface of the Fermi liquid. Magnetism
+is suggested to be a low-energy instability of the resulting small Fermi
+surface state. A concrete realization of this picture is provided by a
+fractionalized Fermi liquid state which has a small Fermi surface of conduction
+electrons, but also has other exotic excitations with interactions described by
+a gauge theory in its deconfined phase. Of particular interest is a
+three-dimensional fractionalized Fermi liquid with a spinon Fermi surface and a
+U(1) gauge structure. A direct second-order transition from this state to the
+conventional Fermi liquid is possible and involves a jump in the electron Fermi
+surface volume. The critical point displays non-Fermi liquid behavior. A
+magnetic phase may develop from a spin density wave instability of the spinon
+Fermi surface. This exotic magnetic metal may have a weak ordered moment
+although the local moments do not participate in the Fermi surface.
+Experimental signatures of this phase and implications for heavy-fermion
+systems are discussed."
+http://arxiv.org/abs/cond-mat/0309438v2	2003-09-21T22:50:00Z	"We describe the zero-temperature phase diagram of a model of bosons,
+occupying sites of a linear chain, which obey a hard-exclusion constraint: any
+two nearest-neighbor sites may have at most one boson. A special case of our
+model was recently proposed as a description of a ``tilted'' Mott insulator of
+atoms trapped in an optical lattice. Our quantum Hamiltonian is shown to
+generate the transfer matrix of Baxter's hard-square model. Aided by exact
+solutions of a number of special cases, and by numerical studies, we obtain a
+phase diagram containing states with long-range density-wave order with period
+2 and period 3, and also a floating incommensurate phase. Critical theories for
+the various quantum phase transitions are presented. As a byproduct, we show
+how to compute the Luttinger parameter in integrable theories with
+hard-exclusion constraints."
+http://arxiv.org/abs/cond-mat/0409033v2	2004-10-20T13:16:44Z	"We review recent work on the instability of the heavy Fermi liquid state (FL)
+of the Kondo lattice towards a magnetic metal in which the local moments are
+not part of the Fermi sea. Using insights drawn from the theory of deconfined
+quantum criticality of insulating antiferromagnets, we discuss the possibility
+of a direct second order transition between the heavy Fermi liquid and such a
+magnetic metal. We suggest the presence of at least two distinct diverging time
+scales - the shorter one describes fluctuations associated with the
+reconstruction of the Fermi surface, while a longer one describes fluctuations
+of the magnetic order parameter. The intermediate time scale physics on the
+magnetic side is suggested to be that of a novel fractionalized Fermi liquid
+(FL*) state with deconfined neutral S=1/2 excitations. This could ultimately
+devolve into the magnetic phase with conventional order at one of the larger
+time scales. Experimental implications for this scenario are noted."
+http://arxiv.org/abs/cond-mat/0510365v1	2005-10-13T20:00:22Z	"The dilute, two-dimensional Bose gas exhibits a novel regime of relaxational
+dynamics in the regime k_B T > |\mu| where T is the absolute temperature and
+\mu is the chemical potential. This may also be interpreted as the quantum
+criticality of the zero density quantum critical point at \mu=0. We present a
+theory for this dynamics, to leading order in 1/\ln (\Lambda/ (k_B T)), where
+\Lambda is a high energy cutoff. Although pairwise interactions between the
+bosons are weak at low energy scales, the collective dynamics are strongly
+coupled even when \ln (\Lambda/T) is large. We argue that the strong-coupling
+effects can be isolated in an effective classical model, which is then solved
+numerically. Applications to experiments on the gap-closing transition of spin
+gap antiferromagnets in an applied field are presented."
+http://arxiv.org/abs/0801.0723v2	2008-01-06T20:47:52Z	"We consider relativistic U(1) gauge theories in 2+1 dimensions, with N_b
+species of complex bosons and N_f species of Dirac fermions at finite
+temperature. The quantum phase transition between the Higgs and Coulomb phases
+is described by a conformal field theory (CFT). At large N_b and N_f, but for
+arbitrary values of the ratio N_b/N_f, we present computations of various
+critical exponents and universal amplitudes for these CFTs. We make contact
+with the different spin-liquids, charge-liquids and deconfined critical points
+of quantum magnets that these field theories describe. We compute physical
+observables that may be measured in experiments or numerical simulations of
+insulating and doped quantum magnets."
+http://arxiv.org/abs/0807.1542v2	2008-08-07T04:36:20Z	"The newly discovered high temperature superconductor SmFeAs(O1-xFx) shows a
+clear nematic transition where the square lattice of Fe ions has a rectangular
+distortion. Similar nematic ordering has also been observed in the cuprate
+superconductors. We provide a detailed theory of experimental observables near
+such a nematic transition: we calculate the scaling of specific heat, local
+density of states (LDOS) and NMR relaxation rate 1/T_1T."
+http://arxiv.org/abs/0808.0496v1	2008-08-04T20:06:07Z	"Motivated by recent Monte-Carlo simulations of Hoglund and Sandvik
+(arXiv:0808.0408), we study edge response in square lattice quantum
+antiferromagnets. We use the O(3) non-linear sigma-model to compute the decay
+asymptotics of the staggered magnetization, energy density and local magnetic
+susceptibility away from the edge. We find that the total edge susceptibility
+is negative and diverges logarithmically as the temperature vanishes. We
+confirm the predictions of the continuum theory by performing a 1/S expansion
+of the microscopic Heisenberg model with the edge. We propose a qualitative
+explanation of the edge dimerization seen in Monte-Carlo simulations by a
+theory of valence-bond-solid correlations in the Neel state. We also discuss
+the extension of the latter theory to the response of a single non-magnetic
+impurity, and its connection to the theory of the deconfined critical point."
+http://arxiv.org/abs/1003.0891v2	2010-03-05T07:50:12Z	"We investigate the zero-temperature phase diagram of the nearest-neighbor
+kagome antiferromagnet in the presence of Dzyaloshinksii-Moriya interaction. We
+develop a theory for the transition between Z2 spin liquids with bosonic
+spinons and a phase with antiferromagnetic long-range order. Connections to
+recent numerical studies and experiments are discussed."
+http://arxiv.org/abs/1010.3745v1	2010-10-18T21:46:19Z	"We discuss the problem of characterizing ""quantum disordered"" ground states,
+obtained upon loss of antiferromagnetic order on general lattices in two
+spatial dimensions, with arbitrary electronic band structure. A key result is
+the response in electron bilinears to the skyrmion density in the local
+antiferromagnetic order, induced by geometric phases. We also discuss the
+connection to topological terms obtained under situations where the electronic
+spectrum has a Dirac form."
+http://arxiv.org/abs/1112.3973v2	2012-05-09T04:56:13Z	"We study the interplay between nematic order and superconductivity, motivated
+by a recent experiment on FeSe observing strongly distorted vortex shapes (Song
+et al., Science 332, 1410 (2011)). We show that the nematic order strongly
+enhances the anisotropy in the superconducting coherence length, beyond that
+expected from considerations of the Ginzburg-Landau theory. We obtain universal
+functions describing the coupling between the nematic order and
+superconductivity, and discuss connections of our results to the experiments."
+http://arxiv.org/abs/1212.3570v1	2012-12-14T19:29:23Z	"We present an improved scheme for the precise evaluation of
+finite-temperature response functions of strongly correlated systems in the
+framework of the time-dependent density matrix renormalization group. The
+maximum times that we can reach at finite temperatures T are typically
+increased by a factor of two, when compared against the earlier approaches.
+This novel scheme, complemented with linear prediction, allows us now to
+evaluate dynamic correlators for interacting bosons in one dimension. We
+demonstrate that the considered spectral function in the quantum critical
+regime with dynamic critical exponent z=2 is captured by the universal scaling
+form S(k,omega)=(1/T)*Phi(k/sqrt(T),omega/T) and calculate the scaling function
+precisely."
+http://arxiv.org/abs/1303.7235v2	2013-07-02T02:20:39Z	"We consider Z2 spin liquids on the kagome lattice on the verge of a valence
+bond solid (VBS) transition, where vortex excitations carrying Z2 magnetic flux
+- so-called visons - condense. We show that these vison excitations can couple
+directly to the external electromagnetic field, even though they carry neither
+spin nor charge. This is possible via a magneto-elastic coupling mechanism
+recently identified by Potter et al and Hao. For the case of transitions to a
+36-site unit cell VBS state the corresponding finite ac-conductivity has a
+specific power law frequency dependence, which is related to the crossover
+exponent of the quantum critical point. The visons' contribution to the optical
+conductivity at transitions to VBS states with a 12-site unit cell vanishes,
+however."
+http://arxiv.org/abs/1308.2222v1	2013-08-09T20:00:01Z	"Recent neutron scattering experiments on the spin-1/2 kagome lattice
+antiferromagnet ZnCu3(OH)6Cl2 (Herbertsmithite) provide the first evidence of
+fractionalized excitations in a quantum spin liquid state in two spatial
+dimensions. In contrast to existing theoretical models of spin liquids, the
+measured dynamic structure factor reveals an excitation continuum which is
+remarkably flat as a function of frequency and has almost no momentum
+dependence along several high-symmetry directions. Here we show that many
+experimentally observed features can be explained by the presence of
+topological vison excitations in a Z2 spin liquid. These visons form flat bands
+on the kagome lattice, and thus act as a momentum sink for spin-carrying
+excitations which are probed by neutron scattering. We compute the dynamic
+structure factor for two different Z2 spin liquids and find that one of them
+describes Herbertsmithite well above a very low energy cutoff."
+http://arxiv.org/abs/0809.0694v4	2009-04-04T14:22:57Z	"We describe neutron scattering, NMR relaxation, and thermal transport
+properties of Z_2 spin liquids in two dimensions. Comparison to recent
+experiments on the spin S=1/2 triangular lattice antiferromagnet in
+kappa-(ET)2Cu2(CN)3 shows that this compound may realize a Z_2 spin liquid. We
+argue that the topological `vison' excitations dominate thermal transport, and
+that recent thermal conductivity experiments by M. Yamashita et al. have
+observed the vison gap."
+http://arxiv.org/abs/1402.4807v3	2014-04-02T21:12:51Z	"Motivated by recent experimental evidence of charge order in the pseudogap
+phase of cuprates, we perform a variational analysis of charge-neutral,
+spin-singlet ordering in metals on the square lattice, using a wavefunction
+with double occupancy projected out. We examine ordering with and without
+time-reversal symmetry, with arbitrary wavevector and tunable form factor.
+Depending on parameters, we find d-wave bond density wave ordering with
+wavevector either parallel to the lattice generators or diagonally oriented, or
+a ground state which carries a time reversal-breaking pattern of spontaneous
+currents."
+http://arxiv.org/abs/1402.6311v3	2014-04-02T21:05:46Z	"We examine the influence of strong on-site Coulomb interactions on
+instabilities of the metallic state on the square lattice to general forms of
+bond order. The Mott correlations are accounted for by the auxiliary-boson
+method, and by dynamical mean field theory calculations, complementing our
+recent work (arXiv:1402.4807) using Gutzwiller projected variational
+wavefunctions. By the present methods, we find that the on-site Mott
+correlations do not significantly modify the structure of the bond ordering
+instabilities which preserve time-reversal symmetry, but they do enhance the
+instability towards time-reversal symmetry breaking ""staggered flux"" states."
+http://arxiv.org/abs/1606.04105v2	2016-09-08T16:33:22Z	"We study a recently proposed quantum dimer model for the pseudogap metal
+state of the cuprates. The model contains bosonic dimers, representing a
+spin-singlet valence bond between a pair of electrons, and fermionic dimers,
+representing a quasiparticle with spin-$1/2$ and charge $+e$. By density matrix
+renormalization group calculations on a long but finite cylinder, we obtain the
+ground-state density distribution of the fermionic dimers for a number of
+different total densities. From the Friedel oscillations at open boundaries, we
+deduce that the Fermi surface consists of small hole pockets near $(\pi/2,
+\pi/2)$, and this feature persists up to a doping density of $1/16$. We also
+compute the entanglement entropy and find that it closely matches the sum of
+the entanglement entropies of a critical boson and a low density of free
+fermions. Our results support the existence of a fractionalized Fermi liquid in
+this model."
+http://arxiv.org/abs/1808.04826v4	2018-11-20T15:22:11Z	"We describe square lattice spin liquids which break time-reversal symmetry,
+while preserving translational symmetry. The states are distinguished by the
+manner in which they transform under mirror symmetries. All the states have
+non-zero scalar spin chirality, which implies the appearance of spontaneous
+orbital charge currents in the bulk (even in the insulator); but in some cases,
+orbital currents are non-zero only in a formulation with three orbitals per
+unit cell. The states are formulated using both the bosonic and fermionic
+spinon approaches. We describe states with $\mathbb{Z}_2$ and U(1) bulk
+topological order, and the chiral spin liquid with semionic excitations. The
+chiral spin liquid has no orbital currents in the one-band formulation, but
+does have orbital currents in the three-band formulation. We discuss
+application to the cuprate superconductors, after postulating that the broken
+time-reversal and mirror symmetries persist into confining phases which may
+also break other symmetries. In particular, the broken symmetries of the chiral
+spin liquid could persist into the N\'eel state."
+http://arxiv.org/abs/1906.11250v3	2021-01-26T19:15:33Z	"We present a sign-problem free quantum Monte Carlo study of a model that
+exhibits quantum phase transitions without symmetry breaking and associated
+changes in the size of the Fermi surface. The model is an Ising gauge theory on
+the square lattice coupled to an Ising matter field and spinful `orthogonal'
+fermions at half-filling, both carrying Ising gauge charges. In contrast to
+previous studies, our model hosts an electron-like, gauge-neutral fermion
+excitation providing access to Fermi liquid phases. One of the phases of the
+model is a previously studied orthogonal semi-metal, which has $\mathbb{Z}_2$
+topological order, and Luttinger-volume violating Fermi points with gapless
+orthogonal fermion excitations. We elucidate the global phase diagram of the
+model: along with a conventional Fermi liquid phase with a large
+Luttinger-volume Fermi surface, we also find a `deconfined' Fermi liquid in
+which the large Fermi surface co-exists with fractionalized excitations. We
+present results for the electron spectral function, showing its evolution from
+the orthogonal semi-metal with a spectral weight near momenta $\{\pm \pi/2, \pm
+\pi/2\}$, to a large Fermi surface."
+http://arxiv.org/abs/2001.09159v2	2020-01-29T15:17:37Z	"We propose a new parton theory of the hole-doped cuprates, describing the
+evolution from the pseudogap metal with small Fermi surfaces to the
+conventional Fermi liquid with a large Fermi surface. We introduce 2 ancilla
+qubits per square lattice site, and employ them to obtain a variational
+wavefunction of a fractionalized Fermi liquid for the pseudogap metal state. We
+propose a multi-layer Hamiltonion for the cuprates, with the electrons residing
+in the 'physical' layer, and the ancilla qubits in two 'hidden' layers: the
+hidden layers can be decoupled from the physical layer by a canonical
+transformation which leaves the hidden layers in a trivial gapped state. This
+Hamiltonian yields an emergent gauge theory which describes not only the
+fractionalized Fermi liquid, but also the conventional Fermi liquid, and
+possible exotic intermediate phases and critical points. The fractionalized
+Fermi liquid has hole pockets with quasiparticle weight which is large only on
+""Fermi arcs"", and fermionic spinon excitations which carry charges of the
+emergent gauge fields."
+http://arxiv.org/abs/2006.01140v4	2020-10-05T21:25:38Z	"We propose a general theoretical framework, using two layers of ancilla
+qubits, for deconfined criticality between a Fermi liquid with a large Fermi
+surface, and a pseudogap metal with a small Fermi surface of electron-like
+quasiparticles. The pseudogap metal can be a magnetically ordered metal, or a
+fractionalized Fermi liquid (FL*) without magnetic order. A critical 'ghost'
+Fermi surface emerges (alongside the large electron Fermi surface) at the
+transition, with the ghost fermions carrying neither spin nor charge, but
+minimally coupled to $(U(1) \times U(1))/Z_2$ or $(SU(2) \times U(1))/Z_2$
+gauge fields. The $(U(1) \times U(1))/Z_2$ case describes simultaneous Kondo
+breakdown and onset of magnetic order: the two gauge fields induce nearly equal
+attractive and repulsive interactions between ghost Fermi surface excitations,
+and this competition controls the quantum criticality. Away from the transition
+on the pseudogap side, the ghost Fermi surface absorbs part of the large
+electron Fermi surface, and leads to a jump in the Hall co-efficient. We also
+find an example of an ""unnecessary quantum critical point"" between a metal with
+spin density wave order, and a metal with local moment magnetic order. The
+ghost fermions contribute an enhanced specific heat near the transition, and
+could also be detected in other thermal probes. We relate our results to the
+phases of correlated electron compounds."
+http://arxiv.org/abs/2006.13947v2	2020-09-09T22:07:58Z	"A previous work (Joshi et al., arXiv:1912.08822) found a deconfined critical
+point at non-zero doping in a $t$-$J$ model with all-to-all and random hopping
+and spin exchange, and argued for its relevance to the phenomenology of the
+cuprates. We extend this model to include all-to-all and random density-density
+interactions of mean-square strength $K$. In a fixed realization of the
+disorder, and for specific values of the hopping, exchange, and density
+interactions, the model is supersymmetric; but, we find no supersymmetry after
+independent averages over the interactions. Using the previously developed
+renormalization group analysis, we find a new fixed point at non-zero $K$.
+However, this fixed point is unstable towards the previously found fixed point
+at $K=0$ in our perturbative analysis. We compute the exponent characterizing
+density fluctuations at both fixed points: this exponent determines the
+spectrum of electron energy-loss spectroscopy."
+http://arxiv.org/abs/2012.06589v1	2020-12-11T19:00:05Z	"We present exact diagonalization results on finite clusters of a $t$-$J$
+model of spin-1/2 electrons with random all-to-all hopping and exchange
+interactions. We argue that such random models capture qualitatively the strong
+local correlations needed to describe the cuprates and related compounds, while
+avoiding lattice space group symmetry breaking orders. The previously known
+spin glass ordered phase in the insulator at doping $p=0$ extends to a metallic
+spin glass phase up to a transition $p=p_c \approx 1/3$. The dynamic spin
+susceptibility shows signatures of the spectrum of the Sachdev-Ye-Kitaev models
+near $p_c$. We also find signs of the phase transition in the entropy,
+entanglement entropy and compressibility, all of which exhibit a maximum near
+$p_c$. The electron energy distribution function in the metallic phase is
+consistent with a disordered extension of the Luttinger-volume Fermi surface
+for $p>p_c$, while this breaks down for $p<p_c$."
+http://arxiv.org/abs/2102.01700v1	2021-02-02T19:00:01Z	"Anomalous metals are observed in numerous experiments on disordered
+two-dimensional systems proximate to superconductivity. A characteristic
+feature of an anomalous metal is that its low temperature conductivity has a
+weakly temperature dependent value, significantly higher than that of a
+disordered Fermi liquid. We consider a disordered model of interacting
+electrons similar in structure to that of the well-studied universal
+Hamiltonian of mesoscopic metallic grains, but with independent random
+interactions between pairs of sites, involving Cooper pair hopping and spin
+exchange. We find evidence for critical anomalous phases or points between a
+superconducting phase and a disordered Fermi liquid phase. Our results are
+obtained by a renormalization group analysis in a weak coupling limit, and a
+complementary solution at large $M$ when the spin symmetry is generalized to
+USp($M$). The large $M$ limit describes the anomalous metal by
+fractionalization of the electron into spinons, holons, and doublons, with
+these partons forming critical non-Fermi liquids in the Sachdev-Ye-Kitaev
+class. We compute the low temperature conductivity in the large $M$ limit, and
+find temperature-independent values moderately enhanced from that in the
+disordered metal."
+http://arxiv.org/abs/cond-mat/9906104v2	1999-11-30T02:20:23Z	"We investigate the interplay between lattice-symmetry breaking and
+superconducting order in a two-dimensional model of doped antiferromagnets,
+with long-range Coulomb interactions and Sp(2N) spin symmetry, in the large-N
+limit. Our results motivate the outline of a global phase diagram for the
+cuprate superconductors. We describe the quantum transitions between the
+phases, the evolution of their fermion excitation spectrum, and the
+experimental implications."
+http://arxiv.org/abs/cond-mat/9910231v5	2021-02-21T13:23:25Z	"It was argued many years ago that translational symmetry breaking due to the
+appearance of spin-Peierls ordering (or bond-charge stripe order) is a
+fundamental property of the quantum paramagnetic states of a large class of
+square lattice antiferromagnets. Recently, such states were shown to be a
+convenient point of departure for studying translational symmetry breaking in
+doped antiferromagnets: these results are briefly reviewed here with an
+emphasis on experimental implications. In the presence of stronger frustration,
+it was also argued that the insulating antiferromagnet can undergo a transition
+to a deconfined state with no lattice symmetry breaking. This transition is
+described by a fully-frustrated Ising model in a transverse field: details of
+this earlier derivation of the Ising model are provided here--this is motivated
+by the reappearance of the same Ising model in a recent study of the
+competition between antiferromagnetism and d-wave superconductivity by Senthil
+and Fisher (cond-mat/9910224)."
+http://arxiv.org/abs/cond-mat/0104176v1	2001-04-10T13:47:41Z	"Fluctuations near second-order quantum phase transitions in d-wave
+superconductors can cause strong damping of fermionic excitations, as observed
+in photoemission experiments. The damping of the gapless nodal quasiparticles
+can arise naturally in the quantum-critical region of a transition with an
+additional spin-singlet, zero momentum order parameter; we argue that the
+transition to a d_x^2-y^2 + i d_xy pairing state is the most likely possibility
+in this category. On the other hand, the gapped antinodal quasiparticles can be
+strongly damped by the coupling to antiferromagnetic spin fluctuations arising
+from the proximity to a Neel-ordered state. We review some aspects of the
+low-energy field theories for both transitions and the corresponding
+quantum-critical behavior. In addition, we discuss the spectral properties of
+the collective modes associated with the proximity to a superconductor with
+d_x^2-y^2 + i d_xy symmetry, and implications for experiments."
+http://arxiv.org/abs/cond-mat/0104519v4	2001-08-16T05:43:25Z	"The ground states and excitations of two-dimensional insulating and doped
+Mott insulators are described by a bond operator formalism. While the method
+represents the degrees of freedom of an arbitrary antiferromagnet exactly, it
+is especially suited to systems in which there is a natural pairing of sites
+into bonds, as in states with spontaneous or explicit spin-Peierls order (or
+bond-centered charge order). In the undoped insulator, as discussed previously,
+we obtain both paramagnetic and magnetically-ordered states. We describe the
+evolution of superconducting order in the ground state with increasing
+doping--at low doping, the superconductivity is weak, can co-exist with
+magnetic order, and there are no gapless spin 1/2 fermionic excitations; at
+high doping, the magnetic order is absent and we obtain a BCS d-wave
+superconductor with gapless spin 1/2, nodal fermions. We present the critical
+theory describing the onset of these nodal fermionic excitations. We discuss
+the evolution of the spin spectrum, and obtain regimes where a spin 1 exciton
+contributes a sharp resonance in the dynamic spin susceptiblity. We also
+discuss the experimental consequences of low-energy, dynamically fluctuating,
+spin-Peierls order in an isotropic CuO_2 plane--we compute consequences for the
+damping and dispersion of an optical phonon involving primarily the O ions, and
+compare the results with recent neutron scattering measurements of phonon
+spectra."
+http://arxiv.org/abs/cond-mat/0106001v1	2001-06-01T12:35:08Z	"We use a method of matched asymptotics to determine the energy gap of two
+counter-propagating, strongly interacting, quantum Hall edge states. The
+microscopic edge state dispersion and Coulomb interactions are used to
+precisely constrain the short-distance behavior of an integrable field theory,
+which then determines the low energy spectrum. We discuss the relationship of
+our results to the tunneling measurements of Kang et al., Nature 403, 59
+(2000)."
+http://arxiv.org/abs/cond-mat/0207167v2	2002-10-16T16:51:35Z	"We describe two dimensional models with a metallic Fermi surface which
+display quantum phase transitions controlled by strongly interacting critical
+field theories below their upper critical dimension. The primary examples
+involve transitions with a topological order parameter associated with
+dislocations in collinear spin density wave (""stripe"") correlations: the
+gapping of the order parameter fluctuations leads to a fractionalization of
+spin and charge collective modes, and this transition has been proposed as a
+candidate for the cuprates near optimal doping. The coupling between the order
+parameter and long-wavelength volume and shape deformations of the Fermi
+surface is analyzed by the renormalization group, and a runaway flow to a
+non-perturbative regime is found in most cases. A phenomenological scaling
+analysis of simple observable properties of possible second order quantum
+critical points is presented, with results quite similar to those near quantum
+spin glass transitions and to phenomenological forms proposed by Schroeder et
+al. (cond-mat/0011002)."
+http://arxiv.org/abs/cond-mat/0402109v1	2004-02-04T02:58:26Z	"A large N expansion technique, based on symplectic (Sp(N)) symmetry, for
+frustrated magnetic systems is studied. The phase diagram of a square lattice,
+spin S, quantum antiferromagnet with first, second and third neighbor
+antiferromagnetic coupling (the J_1-J_2-J_3 model) is determined in the large-N
+limit and consequences of fluctuations at finite N for the quantum disordered
+phases are discussed. In addition to phases with long range magnetic order, two
+classes of disordered phases are found: (i) states similar to those in
+unfrustrated systems with commensurate, collinear spin correlations,
+confinement of spinons, and spin-Peierls or valence-bond-solid order controlled
+by the value of 2S(mod 4) or 2S(mod 2); (ii) states with incommensurate,
+coplanar spin correlations, and unconfined bosonic spin-1/2 spinon excitations.
+The occurrence of ``order from disorder'' at large S is discussed. Neither
+chirally ordered nor spin nematic states are found. Initial results on
+superconductivity in the t-J model at N=infinity and zero temperature are also
+presented."
+http://arxiv.org/abs/cond-mat/0408461v1	2004-08-21T12:05:16Z	"Motivated by recent neutron scattering experiments on the cuprate
+superconductors, we present a phenomenological framework describing the
+dynamics of collective spin excitations coupled to charge/bond order
+fluctuations. Our quantum lattice model contains two order parameter fields,
+and can capture spin excitations both in broken-symmetry states with static
+lattice modulations, as well as in homogeneous states where the charge/bond
+order is fluctuating. We present results for different types of static
+charge/bond order, namely site- and bond-centered stripes, and plaquette
+modulation."
+http://arxiv.org/abs/cond-mat/0511641v5	2006-05-10T17:18:10Z	"We describe the quantum phase transition of a Fermi gas occurring when the
+quasiparticle excitation energy has a minimum in momentum space which crosses
+zero on a sphere of radius k_0 \neq 0. The quasiparticles have a universal
+interaction which controls the physical properties in vicinity of the quantum
+critical point. We discuss applications to fermionic superfluids formed by
+pairing two fermion species, near the point where the densities of the two
+species become unequal."
+http://arxiv.org/abs/cond-mat/0604105v3	2006-07-22T15:23:21Z	"We compute the influence of the quantum zero-point motion of a vortex on the
+electronic quasiparticle spectra of s-wave superconductors. The vortex is
+assumed to be pinned by a harmonic potential, and its coupling to the
+quasiparticles is computed in the framework of BCS theory. Near the core of the
+vortex, the motion leads to a shift of spectral weight away from the chemical
+potential, and thereby reduces the zero bias conductance peak; additional
+structure at the frequency of the harmonic trap is also observed."
+http://arxiv.org/abs/cond-mat/0607137v2	2006-07-07T10:52:02Z	"We highlight the properties of a simple model (contained in our recent work)
+of the quantum dynamics of a single point vortex interacting with the nodal
+fermionic quasiparticles of a d-wave superconductor. We describe the
+renormalization of the vortex motion by the quasiparticles: at T=0, the
+quasiparticles renormalize the vortex mass and introduce only a weak sub-Ohmic
+damping. Ohmic (or `Bardeen-Stephen' damping) appears at T>0, with the damping
+co-efficient vanishing ~ T^2 with a universal prefactor. Conversely, quantum
+fluctuations of the vortex renormalize the quasiparticle spectrum. A point
+vortex oscillating in a harmonic pinning potential has no zero-bias peak in the
+electronic local density of states (LDOS), but has small satellite features at
+an energy determined by the pinning potential. These are proposed as the origin
+of sub-gap LDOS peaks observed in scanning tunneling microscopic studies of the
+LDOS near a vortex."
+http://arxiv.org/abs/cond-mat/0609106v3	2007-01-20T00:12:49Z	"It has long been known that particles with short-range repulsive interactions
+in spatial dimension d=1 form universal quantum liquids in the low density
+limit: all properties can be related to those of the spinless free Fermi gas.
+Previous renormalization group (RG) analyses demonstrated that this
+universality is described by an RG fixed point, infrared stable for d<2, of the
+zero density gas. We show that for d>2 the same fixed point describes the
+universal properties of particles with short-range attractive interactions near
+a Feshbach resonance; the fixed point is now infrared unstable, and the
+relevant perturbation is the detuning of the resonance. Some exponents are
+determined exactly, and the same expansion in powers of (d-2) applies for
+scaling functions for d<2 and d>2. A separate exact RG analysis of a field
+theory of the particles coupled to `molecules' finds an alternative description
+of the same fixed point, with identical exponents; this approach yields a (4-d)
+expansion which agrees with the recent results of Nishida and Son
+(cond-mat/0604500). The existence of the RG fixed point implies a universal
+phase diagram as a function of density, temperature, population imbalance, and
+detuning; in particular, this applies to the BEC-BCS crossover of fermions with
+s-wave pairing. Our results open the way towards computation of these universal
+properties using the standard field-theoretic techniques of critical phenomena,
+along with a systematic analysis of corrections to universality. We also
+propose a 1/N expansion (based upon models with Sp(2N) symmetry) of the fixed
+point and its vicinity, and use it to obtain results for the phase diagram."
+http://arxiv.org/abs/0711.1538v1	2007-11-09T21:11:40Z	"Mott insulators with a half-filled band of electrons on the triangular
+lattice have been recently studied in a variety of organic compounds. All of
+these compounds undergo transitions to metallic/superconducting states under
+moderate hydrostatic pressure. We describe the Mott insulator using its
+hypothetical proximity to a Z_2 spin liquid of bosonic spinons. This spin
+liquid has quantum phase transitions to descendant confining states with Neel
+or valence bond solid order, and the insulator can be on either side of one of
+these transitions. We present a theory of fermionic charged excitations in
+these states, and describe the route to metallic states with Fermi surfaces. We
+argue that an excitonic condensate can form near this insulator-metal
+transition, due to the formation of charge neutral pairs of charge +e and
+charge -e fermions. This condensate breaks the lattice space group symmetry,
+and we propose its onset as an explanation of a low temperature anomaly in
+kappa-(ET)2Cu2(CN)3. We also describe the separate BCS instability of the
+metallic states to the pairing of like-charge fermions and the onset of
+superconductivity."
+http://arxiv.org/abs/0801.2970v3	2008-09-19T20:52:18Z	"We present a theory of the finite temperature thermo-electric response
+functions of graphene, in the hydrodynamic regime induced by electron-electron
+collisions. In moderate magnetic fields, the Dirac particles undergo a
+collective cyclotron motion with a temperature-dependent relativistic cyclotron
+frequency proportional to the net charge density of the Dirac plasma. In
+contrast to the undamped cyclotron pole in Galilean-invariant systems (Kohn's
+theorem), here there is a finite damping induced by collisions between the
+counter-propagating particles and holes. This cyclotron motion shows up as a
+damped pole in the frequency dependent conductivities, and should be readily
+detectable in microwave measurements at room temperature. We also discuss the
+large Nernst effect to be expected in graphene."
+http://arxiv.org/abs/0806.0002v1	2008-06-01T09:40:37Z	"We examine the quantum theory of the spontaneous breaking of lattice rotation
+symmetry in d-wave superconductors on the square lattice. This is described by
+a field theory of an Ising nematic order parameter coupled to the gapless
+fermionic quasiparticles. We determine the structure of the renormalization
+group to all orders in a 1/N_f expansion, where N_f is the number of fermion
+spin components. Asymptotically exact results are obtained for the quantum
+critical theory in which, as in the large N_f theory, the nematic order has a
+large anomalous dimension, and the fermion spectral functions are highly
+anisotropic."
+http://arxiv.org/abs/0808.0191v2	2010-01-10T19:13:02Z	"We make connections between studies in the condensed matter literature on
+quantum phase transitions in square lattice antiferromagnets, and results in
+the particle theory literature on abelian supersymmetric gauge theories in 2+1
+dimensions. In particular, we point out that supersymmetric U(1) gauge theories
+(with particle content similar, but not identical, to those of theories of
+doped antiferromagnets) provide rigorous examples of quantum phase transitions
+which do not obey the Landau-Ginzburg-Wilson paradigm (often referred to as
+transitions realizing ""deconfined criticality""). We also make connections
+between supersymmetric mirror symmetries and condensed matter particle-vortex
+dualities."
+http://arxiv.org/abs/0810.3005v1	2008-10-17T12:26:15Z	"Many condensed matter experiments explore the finite temperature dynamics of
+systems near quantum critical points. Often, there are no well-defined
+quasiparticle excitations, and so quantum kinetic equations do not describe the
+transport properties completely. The theory shows that the transport
+co-efficients are not proportional to a mean free scattering time (as is the
+case in the Boltzmann theory of quasiparticles), but are completely determined
+by the absolute temperature and by equilibrium thermodynamic observables.
+Recently, explicit solutions of this quantum critical dynamics have become
+possible via the AdS/CFT duality discovered in string theory. This shows that
+the quantum critical theory provides a holographic description of the quantum
+theory of black holes in a negatively curved anti-de Sitter space, and relates
+its transport co-efficients to properties of the Hawking radiation from the
+black hole. We review how insights from this connection have led to new results
+for experimental systems: (i) the vicinity of the superfluid-insulator
+transition in the presence of an applied magnetic field, and its possible
+application to measurements of the Nernst effect in the cuprates, (ii) the
+magnetohydrodynamics of the plasma of Dirac electrons in graphene and the
+prediction of a hydrodynamic cyclotron resonance."
+http://arxiv.org/abs/0901.0005v5	2009-03-13T10:14:04Z	"We propose a theory for the underdoped hole-doped cuprates, focusing on the
+""nodal-anti-nodal dichotomy"" observed in recent experiments. Our theory begins
+with an ordered antiferromagnetic Fermi liquid with electron and hole pockets.
+We argue that it is useful to consider a quantum transition at which the loss
+of antiferromagnetic order leads to a hypothetical metallic ""algebraic charge
+liquid"" (ACL) with pockets of charge -e and +e fermions, and an emergent U(1)
+gauge field; the instabilities of the ACL lead to the low temperature phases of
+the underdoped cuprates. The pairing instability leads to a superconductor with
+the strongest pairing within the -e Fermi pockets, a d-wave pairing signature
+for electrons, and very weak nodal-point pairing of the +e fermions near the
+Brillouin zone diagonals. The influence of an applied magnetic field is
+discussed using a proposed phase diagram as a function of field strength and
+doping. We describe the influence of gauge field and pairing fluctuations on
+the quantum Shubnikov-de Haas oscillations in the normal states induced by the
+field. For the finite temperature pseudogap region, our theory has some
+similarities to the phenomenological two-fluid model of -2e bosons and +e
+fermions proposed by Geshkenbein, Ioffe, and Larkin [cond-mat/9609209], which
+describes anomalous aspects of transverse transport in a magnetic field."
+http://arxiv.org/abs/0901.2348v3	2009-06-12T11:31:34Z	"We calculate the normal state Nernst signal in the cuprates resulting from a
+reconstruction of the Fermi surface due to spin density wave order. An order
+parameter consistent with the reconstruction of the Fermi surface detected in
+electron-doped materials is shown to sharply enhance the Nernst signal close to
+optimal doping. Within a semiclassical treatment, the obtained magnitude and
+position of the enhanced Nernst signal agrees with Nernst measurements in
+electron-doped cuprates."
+http://arxiv.org/abs/0901.3530v2	2009-10-06T13:02:11Z	"We study experimental signatures of the Ising nematic quantum phase
+transition in d-wave superconductors, associated with the change of lattice
+symmetry from tetragonal to orthorhombic in the superconducting state. The
+characteristic feature of this transition is that the ratio between the Fermi
+velocity $v_F$ and gap velocity $v_\Delta$ flows to a maximally anisotropic
+fixed point, i.e. the renormalization group fixed point is situated at
+(v_\Delta/v_F)^*=0$. Our main point is that the logarithmic approach to this
+fixed point has visible signatures in the thermal transport. The analysis of
+the quasiparticle contribution to the thermal transport is carried out in the
+framework of a kinetic approach, which shows that the thermal conductivity is
+enhanced near the nematic critical point. Another aspect of our study is the
+interplay of dilute disorder and electronic interactions in the measured
+thermal transport coefficients."
+http://arxiv.org/abs/1104.5022v2	2011-05-20T19:21:57Z	"We give a unified overview of the zero temperature phases of compressible
+quantum matter: i.e. phases in which the expectation value of a globally
+conserved U(1) density, Q, varies smoothly as a function of parameters.
+Provided the global U(1) and translational symmetries are unbroken, such phases
+are expected to have Fermi surfaces, and the Luttinger theorem relates the
+volumes enclosed by these Fermi surfaces to <Q>. We survey models of
+interacting bosons and/or fermions and/or gauge fields which realize such
+phases. Some phases have Fermi surfaces with the singularities of Landau's
+Fermi liquid theory, while other Fermi surfaces have non-Fermi liquid
+singularities. Compressible phases found in models applicable to condensed
+matter systems are argued to also be present in models obtained by applying
+chemical potentials (and other deformations allowed by the residual symmetry at
+non-zero chemical potential) to the paradigmic supersymmetric gauge theories
+underlying gauge-gravity duality: the ABJM model in spatial dimension d=2, and
+the N=4 SYM theory in d=3."
+http://arxiv.org/abs/1404.6532v2	2014-10-07T19:20:58Z	"Metals interacting via short-range antiferromagnetic fluctuations are
+unstable to sign-changing superconductivity at low temperatures. For the
+cuprates, this leading instability leads to the well known $d-$wave
+superconducting state. However, there is also a secondary instability to an
+incommensurate charge density wave, with a predominantly $d-$wave form factor,
+arising from the same antiferromagnetic fluctuations. Recent experiments in the
+pseudogap regime of the hole-doped cuprates have found strong evidence for such
+a charge density wave order and, in particular, the predicted $d-$wave form
+factor. However, the observed wavevector of the charge order differs from the
+leading instability in Hartree-Fock theory, and is that of a subleading
+instability. In this paper, we examine the feedback of superconducting
+fluctuations on these different charge-density wave states, and find that over
+at least a small temperature window, they prefer the experimentally observed
+wavevector."

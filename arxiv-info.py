@@ -5,6 +5,7 @@
 
 import arxiv 
 from pprint import pprint 
+import pandas as pd
 
 
 # =============================================================================
@@ -23,14 +24,21 @@ from pprint import pprint
 #   max_chunk_results=100
 # )
 
-# result = arxiv.query(
-#   query="quantum",
-#   max_chunk_results=1,
-#   max_results=1,
-#   iterative=True
-# )
+result = arxiv.query(
+  query="au:sachdev_subir  AND cat:cond-mat.str-el",
+  max_chunk_results=10,
+  max_results=100,
+  iterative=True
+)
 
-result = arxiv.query(id_list=["2009.11432"])
+# result = arxiv.query(id_list=["2009.11432"])
 
-for paper in result:
-   pprint(paper)
+datalist = []
+
+for paper in result():
+   # pprint(paper['title'])
+   datalist.append([paper['id'],paper['updated'],paper['summary']])
+
+df = pd.DataFrame(datalist, columns =['id', 'year', 'abstract'])
+
+df.to_csv(r'papers2.txt', index=None, sep='\t', mode='a') 
