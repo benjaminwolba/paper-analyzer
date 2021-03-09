@@ -13,6 +13,11 @@ from nltk.stem.porter import PorterStemmer
 from nltk.tokenize import RegexpTokenizer
 from nltk.stem.wordnet import WordNetLemmatizer
 
+from os import path
+from PIL import Image
+from wordcloud import WordCloud, STOPWORDS, ImageColorGenerator
+import matplotlib.pyplot as plt
+
 lem = WordNetLemmatizer()
 stem = PorterStemmer()
 
@@ -84,4 +89,26 @@ for i in range(len(dataset)):
     text = " ".join(text)    
     corpus.append(text)
 
-pprint(corpus[22])
+# pprint(corpus[22])
+
+
+# =============================================================================
+# Visualization as WordCloud
+# =============================================================================
+
+wordcloud = WordCloud(
+    background_color='white',
+    stopwords=stop_words,
+    max_words=100,
+    max_font_size=50, 
+    random_state=42
+).generate(str(corpus))
+
+
+#"""
+fig = plt.figure(1)
+plt.imshow(wordcloud)
+plt.axis('off')
+plt.show()
+# fig.savefig("word1.png", dpi=900)
+#"""
